@@ -51,7 +51,7 @@ int end_size(int st_size) // function to get the ending size
 
 
 // Calculation of the number of years needed to reach the end size
-// It seems that the do while loop won't work as the var years will be incremented once in case of same starting and ending pop sizes. (A bit strange)
+// It seems that the do while loop won't work as the var years will be incremented once in case of same starting and ending population sizes. (A bit strange)
 
 int calcul(int s_size, int e_size)
 {
