@@ -1,6 +1,6 @@
 # Learning-CS-CS50
 
-This repo contains all my solutions to the problems from the CS50 course I'm currently following. 
+This repo contains all my solutions to the problems from the CS50 course I am currently following. 
 
 Organized by weekly folders :
 - Week 1 : C
