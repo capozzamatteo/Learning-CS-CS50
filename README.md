@@ -14,6 +14,8 @@ Organized by weekly folders :
 - Week 9 : Flask
 - Week 10 : Emoji
 
-Note that these files are the ones I submitted during the course, their goal is to show my progress in CS. They may not be representative of my current understanding/level. 
+Note that : 
+These files are the ones I submitted during the course, their goal is to show my progress in CS. They may not be representative of my current understanding/level. 
+I am following this course alongside my studies in Engineering 
 
 Link to the CS50 course : [https://cs50.harvard.edu/x/2023/]
