@@ -18,4 +18,4 @@ Organized by weekly folders :
 These files are the ones I submitted during the course, their goal is to show my progress in CS. They may not be representative of my current understanding/level. <br/>
 I am following this course alongside my studies in Engineering 
 
-Link to the CS50 course : [https://cs50.harvard.edu/x/2023/]
+Link to the CS50 course : [Harvard CS50].(https://cs50.harvard.edu/x/2023/)
