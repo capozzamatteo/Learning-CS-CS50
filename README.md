@@ -1,4 +1,4 @@
-# Learning-CS-CS50
+# Harvard-CS50
 
 This repo contains all my of solutions to the problems from the CS50 course. 
 
